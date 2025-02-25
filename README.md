@@ -51,7 +51,7 @@ Ensure you have the following installed:
    ```
 3. Navigate to the project directory:
    ```bash
-   cd server
+   cd WebSite_TimeTracker
    ```
 
 #### **Step 2: Install Dependencies**
